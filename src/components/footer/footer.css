@@ -1,0 +1,15 @@
+.firsttag{
+    color: white;
+    background-color: black;
+    margin: 5px;
+    padding: 1px;
+    text-align: center;
+}
+
+.remtags{
+    color: white;
+    background-color: gray;
+    margin: 5px;
+    padding: 1px;
+    text-align: center;
+}
