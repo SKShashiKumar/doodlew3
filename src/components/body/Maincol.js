@@ -15,14 +15,14 @@ const Maincol = () => {
           <div className="col-3">
             <Card
               imgsrc="../../../img/wine.jpg"
-              headline="Once Again, Robust Wine and Pasta"
-              contents="Lorem ipsum text praesent tincidunt ipsum lipsum."
+              headline="Le French"
+              contents="Once again, some random text to lorem lorem lorem lorem ipsum text praesent tincidunt ipsum lipsum."
             />
           </div>
           <div className="col-3">
             <Card
               imgsrc="../../../img/popsicle.jpg"
-              headline="All I Need Is a Popsicle"
+              headline="Cherries, interrupted "
               contents="Once again, some random text to lorem lorem lorem lorem ipsum text praesent tincidunt ipsum lipsum."
             />
           </div>

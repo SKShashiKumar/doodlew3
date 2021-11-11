@@ -6,12 +6,16 @@ const Content = () => {
     return ( 
         <>
             <Maincol/>
+            <br />
             <Maincol/>
+            <br />
             <Slide/>
-            <hr color='gray'/>
+            <br />
+            <hr/>
+            <br />
             <Aboutme/>
             <br/>
-            <hr color='gray'/>
+            <hr/>
         </>
      );
 }

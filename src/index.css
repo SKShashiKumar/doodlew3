@@ -1,3 +1,8 @@
 *{
   font-family: 'Karma', serif;
 }
+
+hr{
+  color: bisque;
+  height: 0.2px;
+}

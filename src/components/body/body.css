@@ -1,0 +1,16 @@
+.mlDiv{
+    margin-left: 40%;
+}
+
+.text-bold{
+    font-weight: bolder;
+}
+
+.textLight{
+    font-weight: 500;
+    color: black;
+}
+
+.justify{
+    text-align: justify;
+}

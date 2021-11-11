@@ -14,11 +14,11 @@ const Navbar = () => {
         </div>
 
         <div className='ml-auto'>
-        <h5 className>MyFood</h5>
+        <h4 className="">MyFood</h4>
         </div>
 
         <ul className="navbar-nav ml-auto mt-2 mt-lg-0">
-        <h5>Mail</h5>
+        <h4>Mail</h4>
         </ul>
 
     </nav>

@@ -6,9 +6,12 @@ function App() {
   return (
     <div className="container">
       <Header/>
+      <br />
       <Content/>
         <br/>
+        <br />
       <Footer/>
+      <br />
     </div>
   );
 }
