@@ -5,6 +5,9 @@ ul li{
 ul li{
     background-color: aqua;
 }
+.sideFix{
+  position: fixed;
+}
 
 /* The side navigation menu */
 .sidebar {

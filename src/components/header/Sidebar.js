@@ -2,18 +2,19 @@ import "./Header";
 import "./sidebar.css";
 const Sidebar = () => {
   return (
-    <div style={{ position: "fixed" }}>
-      <div class="sidebar">
-        <a class="active">
-        <img src="https://img.icons8.com/ios-filled/20/ffffff/x.png"/> Close
+    <div className="sideFix">
+      <div className="sidebar">
+        <a className="active" href="#home">
+          <img src="https://img.icons8.com/ios-filled/20/ffffff/x.png" alt="closeIcon"/> Close
         </a>
         <a href="#news">
-        <img src="https://img.icons8.com/external-kiranshastry-solid-kiranshastry/20/0000ff/external-burger-food-kiranshastry-solid-kiranshastry.png"/>
-        FOOD
+          <img src="https://img.icons8.com/external-kiranshastry-solid-kiranshastry/20/0000ff/external-burger-food-kiranshastry-solid-kiranshastry.png" alt="FoodIcon"/>
+          FOOD
         </a>
         <a href="#contact">
-        <img src="https://img.icons8.com/ios-filled/20/0000ff/info.png"/>
-        ABOUT</a>
+          <img src="https://img.icons8.com/ios-filled/20/0000ff/info.png" alt="AboutIcon"/>
+          ABOUT
+        </a>
       </div>
     </div>
   );
